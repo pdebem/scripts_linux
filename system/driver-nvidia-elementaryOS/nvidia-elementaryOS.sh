@@ -24,3 +24,6 @@ sudo apt-get install nvidia-340
 #If you are still on nvidia optimus, use the bumblebee instead of above command:
 
 sudo apt-get install bumblebee linux-headers-generic
+
+# References
+# http://www.fosslinux.com/1462/how-to-install-nvidia-gpu-drivers-in-elementary-os.htm
